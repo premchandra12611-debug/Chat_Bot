@@ -1,0 +1,61 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore IDE files
+.vscode/
+.editorconfig
+.idea/
+*.iml
+
+# Ignore build and dist files
+node_modules/
+build/
+dist/
+target/
+release/
+
+# Ignore log files
+*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore cache files
+.cache/
+__pycache__/
+*.pyc
+
+# Ignore database files
+db.sqlite3
+*.db
+
+# Ignore tmp files
+tmp/
+*.tmp
+
+# Ignore binary files
+*.exe
+*.msi
+*.apk
+*.ipa
+
+# Ignore configuration files
+config.json
+config.yaml
+config.xml
+
+# Ignore other ignore files
+
+.hgignore
+.ignore
+
+# Custom ignores
+.env
+README.md~
+package-lock.json
+yarn.lock
+.streamlit/
+.venv/
