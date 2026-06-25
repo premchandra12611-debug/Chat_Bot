@@ -1,4 +1,12 @@
-# AI Chatbot using Streamlit
+## Live Demo
+
+https://chatbot-ncajxhvkq4bv8a6fsnvxtf.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/premchandra12611-debug/Chat_Bot
+
+# AI Chatbot using Streamlit & Groq API
 
 ## Overview
 
