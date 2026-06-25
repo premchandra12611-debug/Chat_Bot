@@ -94,6 +94,9 @@ streamlit run app.py
 - Multi-language support
 - Custom chatbot personality
 
+## Screenshot
+![Groq Chatbot](images/chatbot.png)
+
 ## Author
 
 Premchandra
